@@ -11,7 +11,7 @@
   }
 
 .atuacao, .contato {
-    background-image: url('imagens/fundo.jpg');
+    background-image: url('https://github.com/user-attachments/assets/b6786fcf-b1c4-49eb-81cb-7645205406b0');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -28,7 +28,7 @@ header {
 }
 
 .capa {
-    background-image: url(imagens/capa.jpg);
+    background-image: url("https://github.com/user-attachments/assets/c5e91f97-988d-4dfb-a4f2-5ba7eabdc6ff");
     min-height: 600px; /* Aumenta um pouco para acomodar melhor */
     background-size: cover; /* Mantém a cobertura total */
     background-position: center top; /* Centraliza no eixo horizontal e ajusta no topo */
